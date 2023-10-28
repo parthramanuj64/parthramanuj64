@@ -2,7 +2,7 @@
  Welcome to my page! 
 
 [I'm Parth Ramanuj](https://github.com/parthramanuj64)
-**Web development and AI Developer** from 🇮🇳
+**Full-Stack Developer with AI Focus** from 🇮🇳
 
 
 🌐 Web Developer | 🤖 AI Enthusiast | 📱 App Developer
