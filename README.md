@@ -1,8 +1,18 @@
--  Hi, I’m Ramanuj Parth
--  I’m interested in Artificial_intelligence and backend_development
--  I’m currently learning Deep learning in artificial_intelligence
+# [**Hey! Nice to See You**](https://github.com/parthramanuj64)
+ Welcome to my page! 
 
-<!---
-parthramanuj64/parthramanuj64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[I'm Parth Ramanuj](https://github.com/parthramanuj64)
+**Web development and AI Developer** from 🇮🇳
+
+
+🌐 Web Developer | 🤖 AI Enthusiast | 📱 App Developer
+
+* Crafting digital experiences through elegant web solutions, intelligent AI systems, and innovative mobile apps.
+
+* Passionate about creating responsive, user-centric websites and harnessing AI's power to solve real-world challenges.
+
+* Building the future of technology one line of code at a time. Let's shape it together!
+
+* Explore my repositories to witness the fusion of creativity, code, and cutting-edge technology. 🚀 #CodeCraftsman
+
+## **Skills**
